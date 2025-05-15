@@ -1,0 +1,2 @@
+Prefix plugins/PDA/example/
+Plugin PDA inputfile parameters.train.txt outputfile output.rds
